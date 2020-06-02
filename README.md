@@ -7,7 +7,7 @@ Juego de cartas entre dos contrincantes (jugador y repartidor) los cuales deben 
 
 ## Reglas:
 1) Cada jugador empezará con una mano de 2 cartas
-2) El jugador decide si quieree plantarse (no tomar más cartas)
+2) El jugador decide si quiere plantarse (no tomar más cartas)
 3) El repartidor podra tomar una carta siempre y cuando el jugador ya haya decido plantarse o tomar una carta
 4) Si el jugador se pasa de 21 puntos el repartidor gana
 5) Si el jugador tiene menos puntos que el repartidor, el repartidor gana. Siempre y cuando los dos esten por debajo de 21 puntos
